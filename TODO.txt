@@ -1,3 +1,4 @@
-// TODO: Add login page (red color), after login feature implemented
- TODO: Add login page (green color)
- // TODO: add login page (green color), after login feature implemented
+// TODO: Add google auth
+ TODO: Add mobile Nav
+ // TODO: notification
+  // TODO: deploy
